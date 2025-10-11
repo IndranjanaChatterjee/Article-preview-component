@@ -8,7 +8,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Screenshot
 
-![Image](./design/solution.png)
+![Image](./design/screenshot.png)
 
 
 
