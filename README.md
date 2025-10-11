@@ -15,7 +15,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Article-preview-component)
-- Live Site URL: [live site URL](https://recipe-page-one-amber.vercel.app/)
+- Live Site URL: [live site URL](https://article-preview-component-two-eta.vercel.app/)
 
 
 
